@@ -38,3 +38,4 @@ variable "client_secret" {
 }
 adding one line in comments to test in git required_providers
 adding one more line to test again in gogit repo
+adding 3rd time from repo to checck in local and main branch
