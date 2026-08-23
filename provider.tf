@@ -37,3 +37,4 @@ variable "client_secret" {
   description = "Azure App/Service Principal Client Secret"
 }
 adding one line in comments to test in git required_providers
+adding one more line to test again in gogit repo
