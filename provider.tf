@@ -36,3 +36,4 @@ variable "client_secret" {
   sensitive   = true
   description = "Azure App/Service Principal Client Secret"
 }
+adding one line in comments to test in git required_providers
