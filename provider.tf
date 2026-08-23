@@ -42,3 +42,4 @@ adding 3rd time from repo to checck in local and main branch
 adding 4th time in local
 adding 5th time from git to local 
 adding 6th time from local to git repo with colne from repo link
+dding 7th time from gitrepo to test main and local 
