@@ -36,7 +36,6 @@ variable "client_secret" {
   sensitive   = true
   description = "Azure App/Service Principal Client Secret"
 }
-# deleted 6 lines 
-
+#deleted 10 lines
 
 
