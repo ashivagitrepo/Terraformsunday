@@ -37,5 +37,3 @@ variable "client_secret" {
   description = "Azure App/Service Principal Client Secret"
 }
 #deleted 10 lines
-adding new lines to check conflicts 
-
