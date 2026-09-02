@@ -36,4 +36,12 @@ variable "client_secret" {
   sensitive   = true
   description = "Azure App/Service Principal Client Secret"
 }
+<<<<<<< HEAD
 #deleted 10 lines
+
+adding new line today 2nd september 2026
+
+=======
+#deleted 10 lines
+>>>>>>> aab430823245fa1f7bfa185e213922618ec500a5
+adding new line today 2nd september
